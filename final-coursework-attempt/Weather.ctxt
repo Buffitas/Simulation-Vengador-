@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\n\ Weather\ can\ change\ during\ the\ time.\n\ There\ are\ three\ states\ of\ weather.\n\ All\ objects\ must\ have\ access\ to\ the\ weather.\n\ It\ influences\ animal's\ behaviour\n\ \n\ @author\ Alvaro\ Moreno\ and\ Emil\ Cechelt\n
+comment1.params=
+comment1.target=void\ setWeather()
+comment1.text=\n\ Generates\ a\ random\ weather.\n\ It\ can\ be\ foggy,\ rainy\ or\ sunny.\n\ Sets\ true\ the\ weather\ condition\ and\ false\ the\ other\ two.\n
+comment2.params=
+comment2.target=java.lang.String\ showWeather()
+comment2.text=\n\ Method\ used\ to\ get\ a\ srting\ determining\ the\ weather\ type.\n\ \n\ @return\ text\ defining\ the\ weather.\n
+comment3.params=
+comment3.target=boolean\ isSunny()
+comment3.text=\n\ Checks\ if\ it\ is\ a\ sunny\ day.\n\ \n\ @return\ true\ if\ it\ is\ a\ sunny\ day.\n
+comment4.params=
+comment4.target=boolean\ isFoggy()
+comment4.text=\n\ Checks\ if\ it\ is\ a\ foggy\ day.\n\ \n\ @return\ true\ if\ it\ is\ a\ foggy\ day.\n
+comment5.params=
+comment5.target=boolean\ isRainy()
+comment5.text=\n\ Checks\ if\ it\ is\ a\ foggy\ day.\n\ \n\ @return\ true\ if\ it\ is\ a\ foggy\ day.\n
+numComments=6

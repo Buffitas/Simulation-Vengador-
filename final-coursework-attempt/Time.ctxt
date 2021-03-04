@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\n\ Time\ Divides\ days\ in\ two\ steps,\ day\ and\ night.\n\ It\ can\ be\ accesed\ by\ animals\ to\ check\ the\ time.\n\n\ @author\ Alvaro\ Moreno\ and\ Emil\ Cechelt\n
+comment1.params=steps
+comment1.target=void\ setTime(int)
+comment1.text=\n\ Depending\ on\ the\ step\ number\ it\ is\ day\ or\ night.\n\ Begin\ process\ with\ day\n
+comment2.params=
+comment2.target=boolean\ isDay()
+comment2.text=\n\ Checks\ the\ time\ of\ the\ day.\n\ \n\ @return\ true\ if\ it\ is\ still\ day\ and\ false\ if\ it\ is\ night.\n
+comment3.params=
+comment3.target=java.lang.String\ showTime()
+comment3.text=\n\ Method\ used\ to\ get\ a\ sting\ determining\ the\ time\ of\ the\ day.\n\ \n\ @return\ text\ defining\ the\ period\ of\ the\ day.\n
+numComments=4

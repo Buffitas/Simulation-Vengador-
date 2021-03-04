@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Disease
+comment0.text=\n\ Disease\ contains\ the\ probability\n\ of\ creating\ an\ infected\ animal\n\ \n\ @author\ Alvaro\ Moreno\ and\ Emil\ Cechelt\n
+comment1.params=
+comment1.target=boolean\ getDisease()
+comment1.text=\n\ Generates\ a\ random\ number\ and\ compares\ too\ the\n\ given\ probability.\n\ \n\ @return\ if\ animal\ gets\ infected.\n
+numComments=2
